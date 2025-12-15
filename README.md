@@ -38,7 +38,7 @@ Check out the live version: [PowerGym Website](https://iam269.github.io/Gym-Webs
 
 ## Screenshots 📸
 
-![Presentation](presentation.png)
+![Presentation](images/presentation.png)
 
 ## Contributing 🤝
 
