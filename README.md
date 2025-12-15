@@ -26,6 +26,10 @@ Welcome to the PowerGym website landing page! This is a modern, responsive websi
 - `images/` - Folder for trainer photos.
 - `README.md` - This file.
 
+## Live Demo 🌐
+
+Check out the live version: [PowerGym Website](https://iam269.github.io/Gym-Website-Landing-Page/)
+
 ## How to Run 🚀
 
 1. Clone or download the repository.
@@ -34,7 +38,7 @@ Welcome to the PowerGym website landing page! This is a modern, responsive websi
 
 ## Screenshots 📸
 
-*(Add screenshots here if available)*
+![Presentation](presentation.png)
 
 ## Contributing 🤝
 
