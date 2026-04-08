@@ -28,7 +28,7 @@ Welcome to the PowerGym website landing page! This is a modern, responsive websi
 
 ## Live Demo 🌐
 
-Check out the live version: [PowerGym Website](https://iam269.github.io/Gym-Website-Landing-Page/)
+Check out the live version: [PowerGym Website](https://itsiamdev.github.io/Gym-Website-Landing-Page/)
 
 ## How to Run 🚀
 
